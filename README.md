@@ -1,4 +1,4 @@
-![header image](./header.png)
+![header image](https://github.com/ChristopherBiscardi/ChristopherBiscardi/blob/32019eeb22544716f7ca0759ad18c00e896c0bc5/header.png)
 
 ### Hi there 👋
 
